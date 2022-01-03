@@ -5,4 +5,4 @@
 * Requires Requests, lxml, Pandas
 
 ### Installation
-* pip install pytrends
+* ```pip install pytrends```
